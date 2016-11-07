@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Jack Wilshere",
+    "position": "pomocnik",
+    "value": "23",
+    "From": "Arsenal",
+    "To": "Bournmouth"
+  },
+  {
+  "name": "John Stones",
+  "position": "obronca",
+  "value": "56",
+  "From": "Everton",
+  "To": "Manchester City"
+  },
+  {
+  "name": "Wilfried Bony",
+  "position": "napastnik",
+  "value": "0",
+  "From": "Manchester City",
+  "To": "Stoke"
+  },
+  {
+    "name": "Christian Benteke",
+    "position": "napastnik",
+    "value": "31",
+    "From": "Liverpool",
+    "To": "Crystal Palace"
+  },
+  {
+    "name": "Alex McCarthey",
+    "position": "bramkarz",
+    "value": "2",
+    "From": "Crystal Palace",
+    "To": "Southampton"
+  },
+  {
+    "name": "Andre Ayew",
+    "position": "pomocnik",
+    "value": "20",
+    "From": "Swansea",
+    "To": "West Ham"
+  }
+
+]
