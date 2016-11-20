@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nowe Transfery
+title: Najnowsze Transfery
 ---
 
 <ul>
